@@ -137,10 +137,11 @@ Visualises loan trends and borrower behaviour.
 excel-bank-loan-report/
 │
 ├── Bank_Loan_Report.xlsx
+├── Bank_loan_data_excel.xlsx
 ├── README.md
 └── screenshots/
-    ├── summary_dashboard.png
-    └── overview_dashboard.png
+├── summary_dashboard.png
+└── overview_dashboard.png
 ```
 
 
