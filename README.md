@@ -1,6 +1,6 @@
 <div align="center">
   
-## 📊 Bank Loan Report — Excel Dashboard Project
+## 📊 Bank Loan Report — Excel Project
 
 *A comprehensive Excel-based reporting system to monitor lending performance, track portfolio health, and drive data-informed decisions.*
 
